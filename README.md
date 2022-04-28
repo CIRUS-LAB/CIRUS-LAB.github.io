@@ -1,5 +1,5 @@
 # Cirus Lab
-  A simple Website created by and for CIRUS LAB.And Yesh almost half of the code is kanged for now...(Pls wait till our devs learn css), Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
+  A simple Website created by and for CIRUS LAB.And Yesh almost quarter of the code is kanged for now...(Pls wait till our devs learn Javascript), Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
 
 # Contributions
 
